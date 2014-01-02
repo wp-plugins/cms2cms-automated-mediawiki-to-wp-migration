@@ -3,13 +3,14 @@ Contributors: cms2cms
 Tags: ediaWiki to wordpress, MediaWiki to wordpress mirgation, convert MediaWiki to wordpress, migrate MediaWiki to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.0.6
+Stable tag: 3.1.7
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Migrate your website content from MediaWiki to WordPress easily and automatedly in just a few simple steps.
 
 == Description ==
+
 
 Migrate your website content from MediaWiki to WordPress easily and automatedly in just a few simple steps.
 
@@ -37,7 +38,6 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 - clear WordPress data before migration
 
 = Additional Supported Modules =
-- **Jcomments** - migration of comments to WordPress directly
 - **MediaWiki sh404SEF** - migration of meta descriptions and keywords to WordPress SEO by Yoast
 - **Phoca Gallery** - migration of images and galleries to NextGen Gallery.
 
@@ -54,6 +54,7 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 To learn more about automated migration from MediaWiki to WordPress, visit http://www.cms2cms.com/supported-cms/MediaWiki-to-wordpress-migration
 
 == Installation ==
+
 1. Download the plugin zip file
 1. Extract plugin zip file to your PC
 1. Upload extracted file to wp-content/plugin directory
@@ -62,6 +63,7 @@ To learn more about automated migration from MediaWiki to WordPress, visit http:
 
 
 == Frequently Asked Questions ==
+
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
 1. Make sure your site is available online at the moment.
@@ -116,6 +118,7 @@ To fix it, you should either download the bridge again under the account you are
 Сontact us at support@cms2cms.com.
 
 == Screenshots ==
+
 1. /assets/screenshot-1.png
 2. /assets/screenshot-2.png
 3. /assets/screenshot-3.png
@@ -123,6 +126,7 @@ To fix it, you should either download the bridge again under the account you are
 5. /assets/screenshot-5.png
 
 == Changelog ==
+
 = 2.0.2 =
 * Bug fixes
 
