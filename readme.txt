@@ -3,7 +3,7 @@ Contributors: cms2cms
 Tags: ediaWiki to wordpress, MediaWiki to wordpress mirgation, convert MediaWiki to wordpress, migrate MediaWiki to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.1.7
+Stable tag: 3.1.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,10 +36,6 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 - opportunity to form internal URLs according to SEO URL structure on WordPress website.
 - 301 redirects from MediaWiki URLs to WordPress URLs
 - clear WordPress data before migration
-
-= Additional Supported Modules =
-- **MediaWiki sh404SEF** - migration of meta descriptions and keywords to WordPress SEO by Yoast
-- **Phoca Gallery** - migration of images and galleries to NextGen Gallery.
 
 **Note.** *This plugin installs connection bridge on WordPress website, which is necessary for data exchange between MediaWiki and WordPress websites. After activation, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
