@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Automated MediaWiki to WordPress Migration  ===
 Contributors: cms2cms
-Tags: MediaWiki to wordpress, MediaWiki to wordpress migration, convert MediaWiki to wordpress, migrate MediaWiki to wordpress, comments, images, plugin
+Tags: MediaWiki to wordpress, MediaWiki to wordpress migration, convert MediaWiki to wordpress, migrate MediaWiki to wordpress, comments, images, plugin, mediawiki
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
