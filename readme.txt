@@ -11,8 +11,13 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 
 == Description ==
 
-
 Migrate your website content from MediaWiki to WordPress easily and automatedly in just a few simple steps.
+
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $39.*
+
+= Video =
+[youtube https://www.youtube.com/watch?v=aDrVp6qJN2I]
 
 = The following content items can be migrated from MediaWiki to WordPress with CMS2CMS =
 * articles
@@ -46,9 +51,6 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 1. Have MediaWiki website FTP access details at hand (host, username, password) - you use them to install connection bridge on MediaWiki website.
 1. Set up custom URL structure for WordPress (it should be set before the migration for internal links to work correctly, if you change them after migration, site navigation will be broken).
 1. Install WordPress plugins supported by CMS2CMS (if you want to migrate metadata or image galleries).
-
-= Video =
-[youtube https://www.youtube.com/watch?v=aDrVp6qJN2I]
 
 To learn more about automated migration from MediaWiki to WordPress, visit http://www.cms2cms.com/supported-cms/MediaWiki-to-wordpress-migration
 
