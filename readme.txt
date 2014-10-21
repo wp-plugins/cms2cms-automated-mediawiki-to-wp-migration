@@ -54,6 +54,8 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 
 To learn more about automated migration from MediaWiki to WordPress, visit http://www.cms2cms.com/supported-cms/MediaWiki-to-wordpress-migration?utm_source=MediaWiki&utm_medium=Link&utm_campaign=WordPress_plugins
 
+See also https://wordpress.org/plugins/cms2cms-blogger-to-wp-converter/
+
 == Installation ==
 
 1. Download the plugin zip file
