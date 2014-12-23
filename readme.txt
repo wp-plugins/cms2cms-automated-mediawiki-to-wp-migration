@@ -52,10 +52,10 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 1. Set up custom URL structure for WordPress (it should be set before the migration for internal links to work correctly, if you change them after migration, site navigation will be broken).
 1. Install WordPress plugins supported by CMS2CMS (if you want to migrate metadata or image galleries).
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 To learn more about automated migration from MediaWiki to WordPress, visit http://www.cms2cms.com/supported-cms/MediaWiki-to-wordpress-migration?utm_source=MediaWiki&utm_medium=Link&utm_campaign=WordPress_plugins
 
