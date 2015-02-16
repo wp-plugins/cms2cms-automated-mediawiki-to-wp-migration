@@ -14,7 +14,7 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 Migrate your website content from MediaWiki to WordPress easily and automatedly in just a few simple steps.
 
 * *There is Free Demo available (migration of limited number of pages).*
-* *Full Migration starts from $49.*
+* *Full Migration starts from $39.*
 
 = Video =
 [youtube https://www.youtube.com/watch?v=aDrVp6qJN2I]
@@ -29,7 +29,7 @@ Migrate your website content from MediaWiki to WordPress easily and automatedly 
 * internal links
 * comments
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 = Features of Automated Migration =
 - **easy** - no need for coding skills to complete it.
